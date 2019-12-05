@@ -1,0 +1,69 @@
+body
+{
+	margin: 40px;
+	background-color: Cornsilk ;
+}
+p
+{
+	font-weight: bold;
+	font-size: 	150px;
+	text-align: center;
+	text-shadow: 2px 3px red;
+	margin: 0px;
+	padding: 0px;
+}
+
+.cen
+{
+	position: fixed;
+	left: 40%;
+}
+
+div
+{
+	width: 100px;
+	height: 100px;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+	float: left;
+	margin: 5px;
+}
+.d1
+{
+	background-color: MidnightBlue;
+	border-radius: 10px 50px;
+	box-shadow: 3px 2px 30px black;	
+}
+
+.d2
+{
+	background-color: SteelBlue;
+	border-radius: 50px 10px;
+	box-shadow: 3px 2px 30px black;
+}
+
+.d3
+{
+	background-color: SkyBlue ;
+	border-radius: 50px 10px;
+	box-shadow: 3px 2px 30px black;
+}
+
+.d4
+{
+	background-color: LimeGreen;
+	border-radius: 10px 50px;
+	box-shadow: 3px 2px 30px black;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+div:hover
+{
+	border-radius: 50px 50px;
+}
